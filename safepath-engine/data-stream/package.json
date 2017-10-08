@@ -1,0 +1,13 @@
+{
+  "name": "driving-data-simulator",
+  "version": "1.0.0",
+  "description": "Generate mock sensor data",
+  "main": "index.js",
+  "scripts": {},
+  "author": "shivendra soni",
+  "license": "MIT",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,9 @@
+safepath-dashboard/build
+safepath-dashboard/database.sqlite
+safepath-dashboard/node_modules
+safepath-dashboard/ncp-debug.log
+safepath-dashboard/npm-debug.log
+safepath-engine/.idea
+safepath-engine/target/*
+safepath-engine/*.iml
+safepath-engine/data/*
